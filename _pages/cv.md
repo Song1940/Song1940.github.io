@@ -20,7 +20,7 @@ Education
 
 
 
-Publshments
+Publications
 ======
 - Experimental Analysis and Evaluation of Cohesive Subgraph Discovery: Dahee Kim, **Song Kim**, Jungseon Kim, Junghoon Kim, Kaiyu Feng, Sungsu Lim, and Jungeun Kim. (2024). Information Science 2024. 
 
@@ -39,7 +39,7 @@ Teaching Assistance
 
 Awards
 ======
-* ITRC(UNIST) : "Index-based hypergrpah decomposition"
+* ITRC(UNIST) : "Index-based hypergraph decomposition"
 * 3rd prize, Gangwon Fire Department AI competition (2022. Dec)
 * 2nd prize from K-digital training(2022. June)
 * Academic scholarship (2019~2021. Kyoungbook National University, for 7 semesters)
