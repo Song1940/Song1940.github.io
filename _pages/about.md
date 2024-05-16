@@ -52,6 +52,4 @@ Awards
 * Alumni association scholarship (2019~2021. Kyoungbook National University, for 3 years)
 * Corporate scholarship(2019. Nonghyup) 
 
-Contact
-======
-song.kim@unist.ac.kr
+
