@@ -22,13 +22,13 @@ Education
 
 Publshments
 ======
-Experimental Analysis and Evaluation of Cohesive Subgraph Discovery: Dahee Kim, **Song Kim**, Jungseon Kim, Junghoon Kim, Kaiyu Feng, Sungsu Lim, and Jungeun Kim. (2024). Information Science 2024. 
+- Experimental Analysis and Evaluation of Cohesive Subgraph Discovery: Dahee Kim, **Song Kim**, Jungseon Kim, Junghoon Kim, Kaiyu Feng, Sungsu Lim, and Jungeun Kim. (2024). Information Science 2024. 
 
 Working Paper(Project)
 ======
-**Song Kim**, Dahee Kim, Junghoon Kim, Hyun Ji Jeong, and Jungeun Kim, (Index-based core computation)
-**Song Kim**, Junghoon Kim, Susik Yoon, Jungeun Kim, (k-clique variations for cohesive subgraph discovery)
-**Song Kim**, Junghoon Kim, Susik Yoon, (Dynamics cohesive subgraph management)
+- **Song Kim**, Dahee Kim, Junghoon Kim, Hyun Ji Jeong, and Jungeun Kim, (Index-based core computation)
+- **Song Kim**, Junghoon Kim, Susik Yoon, Jungeun Kim, (k-clique variations for cohesive subgraph discovery)
+- **Song Kim**, Junghoon Kim, Susik Yoon, (Dynamics cohesive subgraph management)
 
 
 
