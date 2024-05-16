@@ -15,7 +15,7 @@ Welcome, I am currently studying at Data Mining Lab(DM) at UNIST CSE researching
 {% include base_path %}
 Research Interest
 ======
-Hypergraph, Cohesive subgraph discovery
+Hypergraph mining, Cohesive subgraph discovery
 
 Education
 ======
@@ -25,17 +25,13 @@ Education
 
 Publshments
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+Experimental Analysis and Evaluation of Cohesive Subgraph Discovery: Dahee Kim, **Song Kim**, Jungseon Kim, Junghoon Kim, Kaiyu Feng, Sungsu Lim, and Jungeun Kim. (2024). Information Science 2024. 
 
 Working Paper(Project)
 ======
-  <ul>{% for post in site.work reversed %}
-    {% include archive-single-cv.html  %}
-  {% endfor %}</ul>
-
+**Song Kim**, Dahee Kim, Junghoon Kim, Hyun Ji Jeong, and Jungeun Kim, (Index-based core computation)
+**Song Kim**, Junghoon Kim, Susik Yoon, Jungeun Kim, (k-clique variations for cohesive subgraph discovery)
+**Song Kim**, Junghoon Kim, Susik Yoon, (Dynamics cohesive subgraph management)
 
 
 Teaching Assistance
