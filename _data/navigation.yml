@@ -1,22 +1,22 @@
 # main links links
 main:
+  - title: "Research Interest"
+    url: /research-interest/
+
+  - title: "Education"
+    url: /education/    
+
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/ 
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Working Paper(Project)"
+    url: /working/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Teaching Assistance"
+    url: /ta/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Awards"
+    url: /awards/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Contact"
+    url: /contact/
