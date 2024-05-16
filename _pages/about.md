@@ -32,8 +32,8 @@ Publshments
 
 Working Paper(Project)
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.work reversed %}
+    {% include archive-single-cv.html  %}
   {% endfor %}</ul>
 
 
