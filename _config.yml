@@ -12,7 +12,7 @@ title                    : "Song Kim / Song's page"
 title_separator          : "-"
 name                     : &name "Song Kim"
 description              : &description "personal description"
-url                      : https://songkim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Song1940.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Son1940/academicpages.github.io"
 
