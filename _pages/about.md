@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 Welcome, I am currently studying at Data Mining Lab(DM) at UNIST CSE researching graph mining, advised by Prof. Junghoon Kim.
-A data-driven personal website
-======
+
 
 
