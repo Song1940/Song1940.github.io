@@ -27,6 +27,8 @@ Publications
 ======
 - Experimental Analysis and Evaluation of Cohesive Subgraph Discovery: Dahee Kim, **Song Kim**, Jungseon Kim, Junghoon Kim, Kaiyu Feng, Sungsu Lim, and Jungeun Kim. (2024). Information Science 2024.
 - Flexi-clique: Exploring Flexible and Sub-linear Clique Structures: **Song Kim**, Junghoon Kim, Susik Yoon, and Jungeun Kim. (2024) CIKM 2024(short)
+-  Enhancing User Engagement through Network Coreness via Continual Learning: Hyewon Kim, Dahee Kim, **Song Kim**, Susik Yoon, Junghoon Kim (2024) KDBC 2024.
+
 
 Working Paper(Project)
 ======
