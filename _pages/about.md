@@ -23,10 +23,16 @@ Education
 * B.S. in Kyoungbook National University : 2019~2023 Economics, Data Analysis(Double major)
 
 
-Publications
+Publications(International)
 ======
-- Experimental Analysis and Evaluation of Cohesive Subgraph Discovery: Dahee Kim, **Song Kim**, Jungseon Kim, Junghoon Kim, Kaiyu Feng, Sungsu Lim, and Jungeun Kim. (2024). Information Science 2024.
+- From Bicliques to Biflexi Cliques: A New Era of Bipartite Subgraph Discovery: {Taejoon Han, **Song Kim**}, Woungjae Choo, and Junghoon Kim  (2025) CIKM 2025(short)
 - Flexi-clique: Exploring Flexible and Sub-linear Clique Structures: **Song Kim**, Junghoon Kim, Susik Yoon, and Jungeun Kim. (2024) CIKM 2024(short)
+- Experimental Analysis and Evaluation of Cohesive Subgraph Discovery: Dahee Kim, **Song Kim**, Jungseon Kim, Junghoon Kim, Kaiyu Feng, Sungsu Lim, and Jungeun Kim. (2024). Information Science 2024.
+
+  
+Publications(Domestic)
+======
+- (k,o)-core: Cohesive Subgraph Mining in Multi-Order Graphs: {Minseok Kim, Hyewon Kim}, **Song Kim**, Junghoon Kim 데이터베이스 연구 2025
 -  Enhancing User Engagement through Network Coreness via Continual Learning: Hyewon Kim, Dahee Kim, **Song Kim**, Susik Yoon, Junghoon Kim (2024) KDBC 2024.
 
 
@@ -40,6 +46,9 @@ Working Paper(Project)
 
 Teaching Assistance
 ======
+* AI Novatus(Data analysis): 2025. fall
+* Data structure : 2025. fall
+* AI Novatus(Introduction to AI): 2025. spring
 * Introduction to Algorithm : 2025. spring
 * Data Structure(STAR-MOOC) : 2025. winter 
 * LG PBL - Data analysis : 2024.summer
