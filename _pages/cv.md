@@ -19,6 +19,7 @@ Education
 
 Publications(International)
 ======
+- Efficient Locality-based Indexing for Cohesive Subgraphs Discovery in Hypergraphs: **Song Kim** Dahee Kim, Taehoon Han, Junghoon Kim, Hyun Ji Jeong, and Jungeun Kim
 - From Bicliques to Biflexi Cliques: A New Era of Bipartite Subgraph Discovery: {Taejoon Han, **Song Kim**}, Woungjae Choo, and Junghoon Kim  (2025) CIKM 2025(short)
 - Flexi-clique: Exploring Flexible and Sub-linear Clique Structures: **Song Kim**, Junghoon Kim, Susik Yoon, and Jungeun Kim. (2024) CIKM 2024(short)
 - Experimental Analysis and Evaluation of Cohesive Subgraph Discovery: Dahee Kim, **Song Kim**, Jungseon Kim, Junghoon Kim, Kaiyu Feng, Sungsu Lim, and Jungeun Kim. (2024). Information Science 2024.
@@ -32,7 +33,6 @@ Publications(Domestic)
 
 Working Paper(Project)
 ======
-- **Song Kim**, Dahee Kim, Junghoon Kim, Hyun Ji Jeong, and Jungeun Kim, (Index-based core computation)
 - Dahee Kim, Hyewon Kim, **Song Kim**, Minseok Kim, Junghoon Kim, Yeon-Chang Lee, and Sungsu Lim (Uncovering high-order cohesive structures)
 - **Song Kim**, Junghoon Kim, Susik Yoon, Jungeun Kim, (k-clique variations for cohesive subgraph discovery)
 - **Song Kim**, Junghoon Kim, Susik Yoon, (Dynamics cohesive subgraph management)
