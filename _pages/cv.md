@@ -19,7 +19,7 @@ Education
 
 Publications(International)
 ======
-- Efficient Locality-based Indexing for Cohesive Subgraphs Discovery in Hypergraphs: **Song Kim** Dahee Kim, Taehoon Han, Junghoon Kim, Hyun Ji Jeong, and Jungeun Kim (2026) EDBT 2026
+- Efficient Locality-based Indexing for Cohesive Subgraphs Discovery in Hypergraphs: **Song Kim** Dahee Kim, Taehoon Han, Junghoon Kim, Hyun Ji Jeong, and Jungeun Kim(EDBT 2026)
 - From Bicliques to Biflexi Cliques: A New Era of Bipartite Subgraph Discovery: {Taejoon Han, **Song Kim**}, Woungjae Choo, and Junghoon Kim  (2025) CIKM 2025(short)
 - Flexi-clique: Exploring Flexible and Sub-linear Clique Structures: **Song Kim**, Junghoon Kim, Susik Yoon, and Jungeun Kim. (2024) CIKM 2024(short)
 - Experimental Analysis and Evaluation of Cohesive Subgraph Discovery: Dahee Kim, **Song Kim**, Jungseon Kim, Junghoon Kim, Kaiyu Feng, Sungsu Lim, and Jungeun Kim. (2024). Information Science 2024.
@@ -27,11 +27,11 @@ Publications(International)
   
 Publications(Domestic)
 ======
-- Single-Candidate Frequent Itemset Testing via QROM-Based Amplitude Estimation: A Practical Quantum Approach for Large-Scale Itemset Databases: Woungjae Choo, Minseok Kim, Deokhyeon Kim, **Song Kim**, Junghoon Kim (2025) KDBC 2025.
-- The Maximum Flexi-Clique Problem: Exact Algorithms and Structural Insights: **Song Kim**, Hyewon Kim, Junghoon Kim, Susik Yoon, Jungeun Kim (2025) KDBC 2025(WIP)
-- (k,o)-core: Cohesive Subgraph Mining in Multi-Order Graphs: {Minseok Kim, Hyewon Kim}, **Song Kim**, Junghoon Kim 데이터베이스 연구 2025
--  Enhancing User Engagement through Network Coreness via Continual Learning: Hyewon Kim, Dahee Kim, **Song Kim**, Susik Yoon, Junghoon Kim (2024) KDBC 2024
-
+- From Trusses to Communities: A Seed-based Framework for Community Detection: {Hyoungjun Kim, **Song Kim**} and Junghoon Kim(DBR 2025)
+- Quantum Minimum k-core Search Algorithm: **Song Kim**, Minseok Kim, Junghoon Kim*, Woungjae Choo, and Deokhyeon Kim(DBR 2025)
+- Single-Candidate Frequent Itemset Testing via QROM-Based Amplitude Estimation: Practical Quantum Approach for Large-Scale Itemset Databases: Woungjae Choo, Minseok Kim, Deokhyeon Kim, **Song Kim** and Junghoon Kim(KDBC 2025)
+- (k,o)-core: Cohesive Subgraph Mining in Multi-Order Graphs: {Minseok Kim, Hyewon Kim}, **Song Kim**, Junghoon Kim (DBR 2025)
+-  Enhancing User Engagement through Network Coreness via Continual Learning: Hyewon Kim, Dahee Kim, **Song Kim**, Susik Yoon, Junghoon Kim (KDBC 2024)
 
 Working Paper(Project)
 ======
