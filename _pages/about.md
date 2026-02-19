@@ -25,7 +25,6 @@ Education
 
 Publications(International)
 ======
-- 
 - Efficient Locality-based Indexing for Cohesive Subgraphs Discovery in Hypergraphs: **Song Kim** Dahee Kim, Taehoon Han, Junghoon Kim, Hyun Ji Jeong, and Jungeun Kim(EDBT 2026)
 - From Bicliques to Biflexi Cliques: A New Era of Bipartite Subgraph Discovery: {Taejoon Han, **Song Kim**}, Woungjae Choo, and Junghoon Kim  (2025) CIKM 2025(short)
 - Flexi-clique: Exploring Flexible and Sub-linear Clique Structures: **Song Kim**, Junghoon Kim, Susik Yoon, and Jungeun Kim. (2024) CIKM 2024(short)
